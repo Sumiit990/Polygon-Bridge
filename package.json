@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "dotenv": "^16.4.5",
+    "erc721a": "^4.2.3",
+    "hardhat": "^2.19.3"
+  },
+  "dependencies": {
+    "pinata": "^0.0.1"
+  }
+}
